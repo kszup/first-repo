@@ -1,30 +1,25 @@
-# This is a large headning
+# kszup
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Boston, in the state of Massachusetts, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Music
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite music styles are:
 
-Here is `some code` in the middle of a sentence.
+- *Metal*
+- *Metal*
+- *Metal*
 
-```
-This is
-a block
-of code
-```
+### Guitars
 
-Here is now you make [a link](https://www.wikipedia.org/).
+Guitars I dreamt about last night:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Gibson Les Paul
+2. Jackson Dinky Reverse
+3. Washburn
 
-vim README.md
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/kszup).
